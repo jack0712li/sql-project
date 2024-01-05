@@ -1,0 +1,21 @@
+company_id,company_name,website,address,phone
+1,APPLE,https://www.apple.com,"One Apple Park Way; Cupertino, CA 95014, U.S.A.",800_692_7753
+2,GOOGLE,https://google.com,"1600 Amphitheatre Parkway Mountain View, CA 94043",650-253-0000
+3,I KALL,https://ikall.in,"Noida, Uttar Pradesh, 201301",0120-4731048
+4,INFINIX,https://www.infinixmobility.com,"Chennai, Tamil Nadu, India.",1 800 4190 525 
+5,IQOO,https://www.iqoo.com,"10TH & 11TH FLOOR, PALM SPRINGS PLAZA (COMPLEX), VILLAGE WAZIRABAD, SECTOR-54 GURUGRAM Gurgaon-122003 Haryana",1 8005724700
+6,ITEL,https://www.itelinc.com,"6676 Corporate Center Parkway Suite 107, Jacksonville, FL 32216",800-890-ITEL (4835)
+7,LAVA,https://www.lavamobiles.com,"Plot Number A-56, Near Block A & Saharas Office, Sector 64-201301.",1860-500-5001
+8,MARQ,https://www.marq.com,"215 South State Street, Suite 850, Salt Lake City, Utah 84111",860-799-7800
+9,MICROMAX,https://www.micromaxinfo.com,"Micromax Informatics Ltd. 697, Udyog Vihar , Phase _V, Gurugram, Haryana _ 122016",91-129-4883999
+10,MOTOROLA,https://www.motorola.com,"222 W. Merchandise Mart Plaza, Suite 1800 Chicago, Illinois 60654 USA",1 800 668 6765
+11,NOKIA,https://www.nokia.com," 3100 Olympus Blvd Dallas, TX 75019",(972) 374-3000
+12,NOTHING,https://us.nothing.tech,"London, England",1 833 495 40 81
+13,ONEPLUS,https://www.oneplus.com,"Suite 300, Building 5, Riverside Commons, 5000 Riverside Drive, Irving, Texas 75039 USA",1(833)77-3633
+14,OPPO,https://www.oppo.com,"Dongguan, 18 Haibin Road, Wusha, Chang'an Town, China",328-007-8708
+15,POCO,https://www.po.co,"33 Avenue B, New York, NY 10009",(212) 228-4461
+16,REALME,https://www.realme.com,"Shenzhen, Guangdong",1800 102 2777
+17,SAMSUNG,https://www.samsung.com ,"40th floor Samsung Electronics Building, 11, Seocho-daero 74-gil, Seocho District, Seoul , South Korea",(800) 726-7864
+18,TECNO,https://www.tecno-mobile.com,"13735 Paseo Bonita Poway, CA 92064 United States",0421-11999666
+19,VIVO,https://www.vivo.com,"No.1 vivo Road, Chang'an Town, Dongguan City, Guangdong Province",0769-38816888
+20,XIAOMI,https://www.mi.com,"Block E, Embassy Tech Village Marathahalli Outer Ring Road, Devarabisanahalli, Bengaluru 560103",1 929 207 2211
